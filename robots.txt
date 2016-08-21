@@ -1,0 +1,6 @@
+User-agent: Yandex
+Host: easy-weapons.ru/
+
+User-agent: *
+Disallow:
+Sitemap: http://site.org/sitemap.xml
